@@ -15,10 +15,7 @@ Software Developer working at the intersection of Backend Engineering and Artifi
 ---
 [![](https://komarev.com/ghpvc/?username=Gautam-Prabhat&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 📊 LeetCode Stats
-<p align="center">
-  <img src="https://leetcode.com/u/SPH1119/" alt="LeetCode Stats" />
-</p>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/SPH1119?theme=dark&font=baloo)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
